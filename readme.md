@@ -2,7 +2,7 @@
 
 This is a simple web application that allows users to create their own resumes or CVs using HTML, CSS, and JavaScript. It provides an intuitive interface for users to input their personal information, skills, education, achievements, and more.
 
-![Resume Builder](/img.png)
+![Resume Builder](/resume.png)
 ## Features
 
 - Create a professional-looking resume with ease.

@@ -28,7 +28,6 @@ This is a simple web application that allows users to create their own resumes o
 - `index.html`: The main HTML file containing the structure of the resume builder.
 - `style.css`: The stylesheet with the visual styles for the application.
 - `script.js`: The JavaScript file handling user interactions and functionality.
-- `images/`: Directory to store any images used in the application.
 - `fonts/`: Directory to store any custom fonts used.
 
 ## Contributing
